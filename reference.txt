@@ -1,0 +1,14 @@
+1. list(group of tasks)
+tb_1 list
+list_id (pk)
+list_name
+list_description
+
+2.tasks
+tb_1 tasks 
+task_id
+task_name
+task_description
+list_id
+priority
+deadline
